@@ -1,1 +1,1 @@
-# MyProject
+# MyProject with my friend
